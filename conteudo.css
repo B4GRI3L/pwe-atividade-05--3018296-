@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#conteudo {
+		width: 100%;
+		float: right;		
+		}
+
+aside p {
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
